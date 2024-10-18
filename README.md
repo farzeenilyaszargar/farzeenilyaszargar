@@ -1,11 +1,13 @@
-- Hi, I’m @farzeenilyaszargar 👋
+### Hi, I’m @farzeenilyaszargar 👋
+- I am 19 years old
 - I’m interested in Computers 🖥️
 - I am currently doing my Bachelors in Technology Degree 🎓
-- How to reach me
-    e-mail: farzeenilyaszargar@gmail.com
-- My Socials
-  - Instagram
-  - Linkedim
+- My Portfolio: [Click Here](https://farzeenilyaszargar.github.io/portfolio/main.html)
+- Check out my [LinkedIn](https://www.linkedin.com/in/farzeenilyaszargar/)
+
+_____
+
+e-mail: farzeenilyaszargar@gmail.com
+  
  
-- My Portfolio
-    link: https://farzeenilyaszargar.github.io/portfolio/main.html    
+
