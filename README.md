@@ -3,7 +3,7 @@
 - *I am 20 years old*
 - I’m interested in *Computers 🖥️*
 - I am currently a **3rd year CS Student** 🎓
-- Check out my [Portfolio Website](https://www.farzeenilyaszargar.vercel.com) 
+- Check out my [Portfolio Website](https://www.farzeenilyaszargar.vercel.app) 
 - Check out my [Linkedin ](https://www.linkedin.com/in/farzeenilyaszargar/) 
 
 e-mail: farzeenilyaszargar@gmail.com
