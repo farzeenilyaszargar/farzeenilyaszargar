@@ -1,25 +1,26 @@
-# Hey, I'm Farzeen
+# 👋 Hi, I'm Farzeen
 
-📍 Delhi |  | 🚀 Nap Co-Founder
+📍 Delhi | 📚 Undergrad | 🚀 Nap Co-Founder
 
-I design systems.  
-I launch experiments.  
-I build companies.
+21 Year Old Undergrad Exploring The Machinations Of Reality
 
-Projects:
-- [SuperFlights](https://www.superflights.co.in/)
-- [Lunoir Wear Merchandise Store](https://www.lunoirwear.com/)
-- [LightPost News App](https://thelightpost.vercel.app/)
-- [Sip & Focus Promodoro Timer](https://sip-and-focus-8fbjfc58h-farzeenilyaszargars-projects.vercel.app/)
-- [Nap] ()
-- []
-
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+## Projects
+- ✈️ [SuperFlights](https://www.superflights.co.in/) - flight booking engine
+- 👕 [Lunoir Wear Merchandise Store](https://www.lunoirwear.com/) - online merchandise enterprise
+- 📰 [LightPost News App](https://thelightpost.vercel.app/) - news feed using ai, api's and ranking algos
+- ⏰ [Sip & Focus Promodoro Timer](https://sip-and-focus-8fbjfc58h-farzeenilyaszargars-projects.vercel.app/) - basic timer with classical music
+- 🥱 [Nap](https://nap-ide.vercel.app/) - tui agent that builds anything you want
 
 
-### 🛠️ Tech Stack
+## Connect With Me
 
-```python
-Languages = ["Python", "C++", "C#", "JavaScript"]
-Domains = ["AI", "Automation", "Web Systems", "Embedded Systems"]
-Tools = ["AWS", "Linux", "Git", "Unity", "Arduino", "ESP32"]
+[![Twitter](https://img.shields.io/badge/Twitter-101010?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/farzeenilya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farzeenilyaszargar)
+[![Website](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](farzeenilyaszargar.vercel.app)
+
+
+
+
+## Tech Stack
+[![Mac](https://img.shields.io/badge/Hello-000000?style=for-the-badge&logo=linkedin)]
+
