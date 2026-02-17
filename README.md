@@ -1,37 +1,23 @@
 # Hey, I'm Farzeen
 
-> Building things that shouldn’t exist yet.
+📍 Delhi |  | 🚀 Nap Co-Founder
 
 I design systems.  
 I launch experiments.  
 I build companies.
 
-Currently working on:
-- ✈️ Scaling a flight booking platform
-- 🧠 AI systems for education & automation
-- 🌿 A reduced-harm herbal smoking alternative
-- ⚙️ Hardware + embedded experimentation (ESP32, microcontrollers)
-- 🧪 High-scale system testing & architecture design
+Projects:
+- [SuperFlights](https://www.superflights.co.in/)
+- [Lunoir Wear Merchandise Store](https://www.lunoirwear.com/)
+- [LightPost News App](https://thelightpost.vercel.app/)
+- [Sip & Focus Promodoro Timer](https://sip-and-focus-8fbjfc58h-farzeenilyaszargars-projects.vercel.app/)
+- [Nap] ()
+- []
 
----
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 
-## 🧠 What I Think About
 
-- Systems > Features  
-- Distribution > Product  
-- Long-term moats > Short-term hype  
-- Science-fiction ideas that can actually exist  
-
-I’m interested in:
-- Advanced infrastructure
-- AI + real-world applications
-- Scalable internet systems
-- Deep tech startups
-- Hardware + software convergence
-
----
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ```python
 Languages = ["Python", "C++", "C#", "JavaScript"]
