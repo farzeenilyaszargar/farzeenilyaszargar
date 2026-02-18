@@ -22,7 +22,7 @@
 - 📰 [LightPost News App](https://thelightpost.vercel.app/) - news feed using ai, api's and ranking algos
 - ⏰ [Sip & Focus Promodoro Timer](https://sip-and-focus-8fbjfc58h-farzeenilyaszargars-projects.vercel.app/) - basic timer with classical music
 - 🥱 [Nap](https://nap-ide.vercel.app/) - tui agent that builds anything you want
-- 📈 [Quant Algo](https://www.github.com/farzeenilyaszargar/quant)
+- 📈 [Quant Algo](https://www.github.com/farzeenilyaszargar/quant) - my personal quant trading bot
 
 
 ## Connect With Me
