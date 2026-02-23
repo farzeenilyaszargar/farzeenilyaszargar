@@ -23,6 +23,9 @@
 - ⏰ [Sip & Focus Promodoro Timer](https://sip-and-focus-8fbjfc58h-farzeenilyaszargars-projects.vercel.app/) - basic timer with classical music
 - 🥱 [Nap](https://nap-ide.vercel.app/) - tui agent that builds anything you want
 - 📈 [Quant Algo](https://www.github.com/farzeenilyaszargar/quant) - my personal quant trading bot
+- ✅ [To Do Android App](https://www.github.com/farzeenilyaszargar/quant) - first android app to learn gui and my personalized to do app with my own artwork
+- 🌙 [The Islamic App]() - islamic app that has everything from quran to recitations, to adhan and notifications, to duas and namaz schedules etc.
+- 🕹️ [Simple Andriod Game]() - still in developement 
 
 
 ## Connect With Me
