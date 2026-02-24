@@ -24,7 +24,6 @@
 - 🥱 [Nap](https://nap-ide.vercel.app/) - tui agent that builds anything you want
 - 📈 [Quant Algo](https://www.github.com/farzeenilyaszargar/quant) - my personal quant trading bot
 - ✅ [To Do Android App]() - first android app to learn gui and my personalized to do app with my own artwork
-- 🌙 [The Islamic App]() - simple islamic app with everything
 - 🕹️ [Simple Andriod Game]() - still in planning phase 
 
 
