@@ -26,6 +26,7 @@
 - ✅ [To Do Android App]() - first android app to learn gui and my personalized to do app with my own artwork
 - 🕹️ [Simple Andriod Game]() - still in planning phase
 - 📝 [StackFlux]() - a tech & dev blog
+- 📚 [Tayyari](https://tayyari.online) - a jee preparation
 
 
 ## Connect With Me
