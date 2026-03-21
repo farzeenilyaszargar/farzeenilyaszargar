@@ -21,11 +21,11 @@
 - 👕 [Lunoir Wear Merchandise Store](https://www.lunoirwear.com/) - online merchandise enterprise
 - 📰 [LightPost News App](https://thelightpost.vercel.app/) - news feed using ai, api's and ranking algos
 - ⏰ [Sip & Focus Promodoro Timer](https://sip-and-focus-8fbjfc58h-farzeenilyaszargars-projects.vercel.app/) - basic timer with classical music
-- 🥱 [Nap](https://nap-ide.vercel.app/) - tui agent that builds anything you want
+- 🥱 [Nap](https://nap-code.com/) - tui agent that builds anything you want
 - 📈 [Quant Algo](https://www.github.com/farzeenilyaszargar/quant) - my personal quant trading bot
 - ✅ [To Do Android App]() - first android app to learn gui and my personalized to do app with my own artwork
 - 🕹️ [Simple Andriod Game]() - still in planning phase
-- 📝 [StackFlux]() - a tech & dev blog
+- 📝 [StackFlux](https://www.stackflux.online) - a tech & dev blog
 - 📚 [Tayyari](https://tayyari.online) - a jee preparation
 
 
@@ -33,7 +33,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-101010?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/farzeenilya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farzeenilyaszargar)
-[![Website](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farzeenilyaszargar.vercel.app)
+[![Website](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farzeenilyaszargar.online)
 
 
 
