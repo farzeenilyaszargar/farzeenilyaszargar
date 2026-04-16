@@ -27,6 +27,7 @@
 - 🕹️ [Simple Andriod Game]() - still in planning phase
 - 📝 [StackFlux](https://www.stackflux.online) - a tech & dev blog
 - 📚 [Tayyari](https://tayyari.online) - a jee preparation
+- 🧑‍💻 [Fizlint](https://fizlint.vercel.app/) - a live linting cli tool for js and ts
 
 
 ## Connect With Me
