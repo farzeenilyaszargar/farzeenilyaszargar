@@ -21,12 +21,12 @@
 - 👕 [Lunoir Wear Merchandise Store](https://www.lunoirwear.com/) - online merchandise enterprise
 - 📰 [LightPost News App](https://thelightpost.vercel.app/) - news feed using ai, api's and ranking algos
 - ⏰ [Sip & Focus Promodoro Timer](https://sip-and-focus-8fbjfc58h-farzeenilyaszargars-projects.vercel.app/) - basic timer with classical music
-- 🥱 [Nap](https://nap-code.com/) - tui agent that builds anything you want
+- 🥱 [Nap CLI](https://nap-code.com/) - cli agent that builds anything you want
 - 📈 [Quant Algo](https://www.github.com/farzeenilyaszargar/quant) - my personal quant trading bot
-- ✅ [To Do Android App]() - first android app to learn gui and my personalized to do app with my own artwork
-- 🕹️ [Simple Andriod Game]() - still in planning phase
+- ✅ [To Do Android App ?]() - first android app to learn gui and my personalized to do app with my own artwork
+- 🕹️ [Simple Andriod Game ?]() - still in planning phase
 - 📝 [StackFlux](https://www.stackflux.online) - a tech & dev blog
-- 📚 [Tayyari](https://tayyari.online) - a jee preparation
+- 📚 [Tayyari | Do JEE Prep](https://tayyari.online) - a jee preparation
 - 🧑‍💻 [Fizlint](https://fizlint.vercel.app/) - a live linting cli tool for js and ts
 
 
