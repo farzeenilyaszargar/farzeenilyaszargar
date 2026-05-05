@@ -28,6 +28,7 @@
 - 📝 [StackFlux](https://www.stackflux.online) - a tech & dev blog
 - 📚 [Tayyari | Do JEE Prep](https://tayyari.online) - a jee preparation
 - 🧑‍💻 [Fizlint](https://fizlint.vercel.app/) - a live linting cli tool for js and ts
+- [My Blog](https://fizzy.blog/) - my blog
 
 
 ## Connect With Me
